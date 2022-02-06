@@ -1,14 +1,27 @@
 # Unit 5 - Financial Planning
+ 
+![financial_planning](images/financial_planning.jpg)
 
 ### This repository is to create two financial analysis tools utilising APIs. 
 
-![financial_planning](images/financial_planning.jpg)
+---
 
-The first tool is a personal finance planner that will allow users to see their savings, which will be made up of stock and cryptocurrency assets, in order to determine whether they have enough money set aside for an emergency fund.
+![personal](images/personal.PNG)
 
-The second product will be a retirement planning tool that will use the Alpaca API to retrieve historical closing prices for a stock and bond retirement portfolio, then run Monte Carlo simulations to estimate portfolio performance over various timeframes and project portfolio returns for a particular starting blance.
+The first tool is a personal finance planner that allows users to see their savings, made up of stock and cryptocurrency assets, to determine if they have enough money set aside for an emergency fund.
+
+![distribution](images/distribution.PNG)
+
+The second product is a retirement planning tool that uses Alpaca APIs to retrieve historical closing prices for a stock and bond retirement portfolio. Then run Monte Carlo simulations to estimate portfolio performance over various timeframes and project portfolio returns for a particular starting balance.
 
 ![return_plot](images/return_plot.PNG)
+
+---
+## Early retirement challenge
+
+These results show that those with a high risk preference have the potential  to retire early with a higher stock to bond ratio and a more significant initial investment. 
+
+![early](images/early.PNG)
 
 ---
 
@@ -17,7 +30,7 @@ The second product will be a retirement planning tool that will use the Alpaca A
 * pandas
 * alpaca
 * matplotlib
-
+* MCForecastTools
 ---
 
 
