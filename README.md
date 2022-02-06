@@ -10,9 +10,11 @@
 
 The first tool is a personal finance planner that allows users to see their savings, made up of stock and cryptocurrency assets, to determine if they have enough money set aside for an emergency fund.
 
-![distribution](images/distribution.PNG)
+![distribution](images/Distribution.PNG)
 
 The second product is a retirement planning tool that uses Alpaca APIs to retrieve historical closing prices for a stock and bond retirement portfolio. Then run Monte Carlo simulations to estimate portfolio performance over various timeframes and project portfolio returns for a particular starting balance.
+
+![thirty](images/thirty.PNG)
 
 ![return_plot](images/return_plot.PNG)
 
